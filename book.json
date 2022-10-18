@@ -1029,47 +1029,5 @@
     },
     "searchUrl": "https://jmcomic.asia/search/photos?search_query={{key}}&main_tag=0",
     "weight": 0
-  },
-  {
-    "bookSourceComment": "",
-    "bookSourceGroup": "a+",
-    "bookSourceName": "漫画测试",
-    "bookSourceType": 0,
-    "bookSourceUrl": "https://www.manga2022.com",
-    "bookUrlPattern": "",
-    "customOrder": 348,
-    "enabled": true,
-    "enabledCookieJar": false,
-    "enabledExplore": false,
-    "exploreUrl": "免费漫画::https://www.manga2022.com/comics?type=1\n更新时间::https://www.manga2022.com/comics?type=1&ordering=-datetime_updated\n热门::https://www.manga2022.com/comics?type=1&ordering=-popular",
-    "lastUpdateTime": 1654497163690,
-    "loginUrl": "",
-    "respondTime": 180000,
-    "ruleBookInfo": {
-      "init": "",
-      "intro": "id.manga-brief@text"
-    },
-    "ruleContent": {
-      "content": ":_R002_80C16D19687A69DA73E45212962C6B5F15DB9DC1D81985D0247D9B79CD7AB0B1CE0602F5E3241DFBFFC3E7D1822CEFCA62A1A23E6433586719DCB535438043C8B66A9201E644B06259AE00FF925F4DE76A8D771EBA0E2F49928E01B092932336D48FF1DF0B0AF4367584B027C25039ED302616AADBB2A6795A2121FB6CDB5F6B"
-    },
-    "ruleExplore": {
-      "bookList": ""
-    },
-    "ruleSearch": {
-      "author": "tag.h5@text",
-      "bookList": "class.col-12",
-      "bookUrl": "tag.a.0@href",
-      "coverUrl": "tag.img@src",
-      "kind": "class.mb-2@tag.li@text##.*連載狀態：",
-      "lastChapter": "tag.li.2@text",
-      "name": "tag.h4@text"
-    },
-    "ruleToc": {
-      "chapterList": ":_R002_464C74F53BDDC64971C692827EBFA33DDB4310A59DE96D3FFA134CE292A4C0869E61C296368FF1B6294DEC9E622563CA03C9D97BA14A0731F64830AFA44D6B7B6263C17E6F98FB0862B33361D44B0DD694690B8D8B8EA683E1EDE580B45A544A97F4346192B2C0241F4ED385029CE0413A2AF40F7601B74C5CF71AD8A82DFF2F",
-      "chapterName": "text",
-      "chapterUrl": "value"
-    },
-    "searchUrl": "https://www.manga2022.com/search?q={{key}}&o={{(page-1)*12}}",
-    "weight": 0
   }
 ]
