@@ -1,6 +1,7 @@
 节点池()
 https://ednovas.xyz/2021/01/15/freeproxies/
-https://sspool.herokuapp.com/
+https://github.com/freefq/free
+https://raw.fastgit.org/freefq/free/master/v2
 源仓库0
 http://yckceo.vip/
 初见0
